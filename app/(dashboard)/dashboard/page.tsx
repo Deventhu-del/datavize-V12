@@ -98,14 +98,14 @@ export default function DashboardPage() {
     },
     {
       id: "2",
-      name: "Document RAG Pipeline",
-      description: "Intelligent agent framework",
+      name: "InsureVize",
+      description: "Intelligent Insurance Agent",
       createdAt: "2024-01-10",
       updatedAt: "2024-01-18",
       subProjects: [
         {
           id: "2-1",
-          name: "VizeMind",
+          name: "VizeLearn",
           type: "Module",
           description: "Advanced learning module",
           fileCount: 32,
@@ -115,8 +115,8 @@ export default function DashboardPage() {
     },
     {
       id: "3",
-      name: "Automation AI",
-      description: "Automation pipeline",
+      name: "HealthVize",
+      description: "Healthcare AI Assistant",
       createdAt: "2024-01-10",
       updatedAt: "2024-01-18",
       subProjects: [
